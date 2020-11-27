@@ -1,0 +1,66 @@
+.signin-card{
+    width: 100%;
+    margin: auto;
+}
+.full-page{
+    height: -webkit-fill-available;
+    width: 100%;
+}
+
+.bottom-grid {
+    //background: url('../../../assets/bg.jpg') 100px 100px;
+    width: 100%;
+    min-height: 100%;
+    display: block;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .preferred-login {
+    padding-top: 8px;
+    padding-bottom: 11px;
+    margin-bottom: 16px;
+    background-color: white;
+    border-radius: 3px;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}
+  /*
+.anime{
+    animation: yourAnimation 0.5s forwards 0s ease;
+}
+
+@keyframes yourAnimation{
+    0%{
+        transform: scale(1) ;
+        opacity: 1;
+        }
+    100%{
+        transform: scale(0.4) ;
+        opacity: 0.4;
+        }
+}
+*/
+.subtitle{
+    font-size: 24px;
+}
+
+.main-title{
+    font-size: 34px;
+
+}
+
